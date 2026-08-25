@@ -1,33 +1,64 @@
-# sidportfolio
+# Sidharth Nayak — Portfolio
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+Personal portfolio website of **Sidharth Nayak**, an Information Science and Engineering student at Sapthagiri College of Engineering, Bangalore.
 
-## Built with v0
+The portfolio showcases my software projects, technical interests, ongoing work, and experience beyond code.
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+## Live Website
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_x7vJzXK03RLG3Dxzkvg2FHcjsolj)
+**[sidportfolio-one.vercel.app](https://sidportfolio-one.vercel.app)**
 
-## Getting Started
+## About
 
-First, run the development server:
+I'm a software engineering student interested in building practical software, exploring AI, and developing systems that solve real problems.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Outside of technology, I'm an athlete and a state-level basketball player.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Featured Work
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Roomsy
+A PG accommodation / management platform.
 
-## Learn More
+**Status:** Completed
 
-To learn more, take a look at the following resources:
+### OTT Subscriber Churn Prediction
+A machine-learning project focused on understanding and predicting subscriber churn for an OTT platform.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+**Status:** Work in Progress
+
+### Tekmeria
+An AI-oriented research and retrieval project exploring search, vector indexing, and AI-powered research workflows.
+
+**Status:** Work in Progress
+
+## Experience
+
+### Abacus Speed Arena
+An Abacus-related project/experience.
+
+**Live:** [smartkidabacus.netlify.app](https://smartkidabacus.netlify.app)
+
+## Built With
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- MySQL
+- Python
+
+## Tools
+
+- Canva
+- Git
+- Excel
+- SQL Workbench
+
+## Connect
+
+- **LinkedIn:** [Sidharth Nayak](https://www.linkedin.com/in/nayak-sid/)
+- **GitHub:** [@siddynk](https://github.com/siddynk)
+
+---
+
+Built and maintained by **Sidharth Nayak**.
