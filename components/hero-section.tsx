@@ -27,7 +27,7 @@ export function HeroSection() {
 
         <p className="mt-10 max-w-xl text-pretty text-base leading-relaxed text-muted-foreground md:text-lg">
           Information Science student building practical software — backend systems, AI, and
-          the web. National-level basketball player away from the keyboard.
+          the web. State-level basketball player away from the keyboard.
         </p>
       </div>
 
@@ -37,7 +37,7 @@ export function HeroSection() {
             { t: "Focus", d: "Backend & AI" },
             { t: "Based in", d: "Bangalore, IN" },
             { t: "Studying", d: "ISE @ Sapthagiri" },
-            { t: "Off-screen", d: "Nat'l basketball" },
+            { t: "Off-screen", d: "State basketball" },
           ].map((item) => (
             <div key={item.t} className="glass px-4 py-4">
               <dt className="text-[0.65rem] uppercase tracking-[0.2em] text-muted-foreground">

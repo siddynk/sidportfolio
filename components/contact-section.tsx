@@ -1,6 +1,7 @@
 import { ArrowUpRight } from "lucide-react"
 
 const socials = [
+  { label: "LinkedIn — nayak-sid", href: "https://www.linkedin.com/in/nayak-sid/" },
   { label: "GitHub — siddynk", href: "https://github.com/siddynk" },
   { label: "Roomsy — repo", href: "https://github.com/siddynk/Roomsy" },
 ]

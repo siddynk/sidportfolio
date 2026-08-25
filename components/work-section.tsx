@@ -22,20 +22,27 @@ const projects: Project[] = [
   {
     index: "02",
     title: "OTT Subscriber Churn Prediction",
-    description:
-      "Currently building an ML-based approach to understanding and predicting OTT subscriber churn. Work in progress.",
-    tags: ["Python", "Machine Learning", "WIP"],
+    description: "A machine learning project focused on predicting OTT subscriber churn. Work in progress.",
+    tags: ["Work in progress"],
     year: "2026",
     href: "#",
   },
   {
     index: "03",
     title: "Tekmeria",
-    description:
-      "Currently building an AI-powered research and retrieval system — exploring search, vector indexing, and retrieval-driven workflows. Work in progress.",
-    tags: ["AI", "Retrieval", "WIP"],
+    description: "Work in progress.",
+    tags: ["Work in progress"],
     year: "2026",
     href: "#",
+  },
+  {
+    index: "04",
+    title: "Abacus Speed Arena",
+    description:
+      "An Abacus experience I built, live on the web. Related to my work teaching and practicing mental arithmetic with the Abacus.",
+    tags: ["Abacus", "Live"],
+    year: "2025",
+    href: "https://smartkidabacus.netlify.app/",
   },
 ]
 

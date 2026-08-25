@@ -32,13 +32,13 @@ export function AboutSection() {
           <div className="md:col-span-7 md:col-start-6">
             <div className="space-y-6 text-lg leading-relaxed text-foreground">
               <p className="text-pretty">
-                I&apos;m a 19-year-old Information Science and Engineering student in my sixth
+                I&apos;m a 20-year-old Information Science and Engineering student in my seventh
                 semester at Sapthagiri College of Engineering, Bangalore (VTU). I&apos;m drawn to
-                backend development, AI and machine learning, and modern web development — and I
-                learn the most by actually building things.
+                software engineering, backend development, AI and machine learning, and modern web
+                development — and I learn the most by actually building things.
               </p>
               <p className="text-pretty text-muted-foreground">
-                Away from the screen I&apos;m an athlete and a national-level basketball player.
+                Away from the screen I&apos;m an athlete and a state-level basketball player.
                 The court is where the discipline, teamwork, and habit of improving under pressure
                 come from — the same instincts I bring to shipping software.
               </p>

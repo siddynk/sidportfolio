@@ -18,7 +18,7 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: 'Sidharth Nayak — Software Engineering Student & Developer',
   description:
-    'Portfolio of Sidharth Nayak, an Information Science and Engineering student in Bangalore building practical software across backend systems, AI, and the web — and a national-level basketball player.',
+    'Portfolio of Sidharth Nayak, an Information Science and Engineering student in Bangalore building practical software across backend systems, AI, and the web — and a state-level basketball player.',
   generator: 'v0.app',
   icons: {
     icon: [
