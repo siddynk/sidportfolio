@@ -16,9 +16,9 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Sidharth Nayak — Java Full-Stack Developer',
+  title: 'Sidharth Nayak — Software Engineering Student & Developer',
   description:
-    'Portfolio of Sidharth Nayak, a Java-first full-stack developer and instructor based in Bangalore building products with Spring Boot, React, and MySQL.',
+    'Portfolio of Sidharth Nayak, an Information Science and Engineering student in Bangalore building practical software across backend systems, AI, and the web — and a national-level basketball player.',
   generator: 'v0.app',
   icons: {
     icon: [

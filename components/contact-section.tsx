@@ -2,8 +2,7 @@ import { ArrowUpRight } from "lucide-react"
 
 const socials = [
   { label: "GitHub — siddynk", href: "https://github.com/siddynk" },
-  { label: "LinkedIn — nayak-sid", href: "https://linkedin.com/in/nayak-sid" },
-  { label: "LeetCode — sidspams", href: "https://leetcode.com/sidspams" },
+  { label: "Roomsy — repo", href: "https://github.com/siddynk/Roomsy" },
 ]
 
 export function ContactSection() {

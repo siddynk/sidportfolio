@@ -17,7 +17,7 @@ export function HeroSection() {
       <div className="relative mx-auto flex w-full max-w-6xl flex-1 flex-col justify-center px-6 pt-28">
         <div className="flex items-center gap-3 font-mono text-xs uppercase tracking-[0.25em] text-muted-foreground">
           <span className="inline-block h-2 w-2 animate-pulse bg-accent" aria-hidden="true" />
-          Available for 2026 — internships & new grad
+          Open to internships & collaborations
         </div>
 
         <h1 className="mt-8 text-balance font-sans text-[19vw] font-black uppercase leading-[0.82] tracking-tighter sm:text-8xl md:text-[10rem] lg:text-[12rem]">
@@ -26,18 +26,18 @@ export function HeroSection() {
         </h1>
 
         <p className="mt-10 max-w-xl text-pretty text-base leading-relaxed text-muted-foreground md:text-lg">
-          Java-first full-stack developer building shipped products across React, Spring Boot,
-          and MySQL — and teaching the fundamentals behind them.
+          Information Science student building practical software — backend systems, AI, and
+          the web. National-level basketball player away from the keyboard.
         </p>
       </div>
 
       <div className="relative mx-auto w-full max-w-6xl px-6 pb-8">
         <dl className="grid grid-cols-2 gap-px overflow-hidden border border-border bg-border font-mono text-sm md:grid-cols-4">
           {[
-            { t: "Focus", d: "Java / Spring Boot" },
+            { t: "Focus", d: "Backend & AI" },
             { t: "Based in", d: "Bangalore, IN" },
-            { t: "Studying", d: "B.E. ISE — VTU" },
-            { t: "LeetCode", d: "119+ solved" },
+            { t: "Studying", d: "ISE @ Sapthagiri" },
+            { t: "Off-screen", d: "Nat'l basketball" },
           ].map((item) => (
             <div key={item.t} className="glass px-4 py-4">
               <dt className="text-[0.65rem] uppercase tracking-[0.2em] text-muted-foreground">

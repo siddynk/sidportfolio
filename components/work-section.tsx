@@ -14,45 +14,27 @@ const projects: Project[] = [
     index: "01",
     title: "Roomsy",
     description:
-      "A full-stack PG accommodation finder with admin controls, visit-date-gated reviews, and booking-date validation. Deployed on Railway.",
-    tags: ["Spring Boot", "Thymeleaf", "MySQL"],
+      "A PG accommodation and management platform built to make finding and managing paying-guest stays simpler. My primary shipped project.",
+    tags: ["Java", "MySQL"],
     year: "2025",
     href: "https://github.com/siddynk/Roomsy",
   },
   {
     index: "02",
-    title: "Abacus Arena",
+    title: "OTT Subscriber Churn Prediction",
     description:
-      "A real-time math quiz platform with cosmic and arcade themes, an admin dashboard, and a live kill switch. Running in production.",
-    tags: ["HTML/CSS/JS", "Supabase", "Live"],
-    year: "2025",
-    href: "https://smartkidabacus.netlify.app",
+      "Currently building an ML-based approach to understanding and predicting OTT subscriber churn. Work in progress.",
+    tags: ["Python", "Machine Learning", "WIP"],
+    year: "2026",
+    href: "#",
   },
   {
     index: "03",
-    title: "OTT Churn Prediction",
+    title: "Tekmeria",
     description:
-      "An explainable-ML pipeline comparing Logistic Regression, Decision Tree, Random Forest, and XGBoost — with XGBoost selected and SHAP explanations.",
-    tags: ["Python", "XGBoost", "SHAP"],
-    year: "2025",
-    href: "#",
-  },
-  {
-    index: "04",
-    title: "Hospital Management System",
-    description:
-      "A role-based system with doctor, patient, and admin accounts plus appointment scheduling, built on a Node/Express stack.",
-    tags: ["Node.js", "Express", "MySQL"],
-    year: "2024",
-    href: "#",
-  },
-  {
-    index: "05",
-    title: "Attendance App",
-    description:
-      "A calendar-first attendance tracker with tokenized parent access, iterated from an earlier dashboard version.",
-    tags: ["Flask", "Python", "uv"],
-    year: "2024",
+      "Currently building an AI-powered research and retrieval system — exploring search, vector indexing, and retrieval-driven workflows. Work in progress.",
+    tags: ["AI", "Retrieval", "WIP"],
+    year: "2026",
     href: "#",
   },
 ]

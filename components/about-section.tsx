@@ -25,24 +25,22 @@ export function AboutSection() {
               (01) About
             </h2>
             <p className="mt-6 font-sans text-3xl font-bold leading-[1.05] tracking-tight md:text-4xl">
-              I ship products, then teach the fundamentals behind them.
+              I build software, and I compete — on the court and in code.
             </p>
           </div>
 
           <div className="md:col-span-7 md:col-start-6">
             <div className="space-y-6 text-lg leading-relaxed text-foreground">
               <p className="text-pretty">
-                I&apos;m a final-year Information Science student at Sapthagiri College of
-                Engineering, Bengaluru (VTU). I work Java-first across the stack — building
-                full-stack apps from a React or plain HTML/CSS/JS front end through a Spring
-                Boot and MySQL back end.
+                I&apos;m a 19-year-old Information Science and Engineering student in my sixth
+                semester at Sapthagiri College of Engineering, Bangalore (VTU). I&apos;m drawn to
+                backend development, AI and machine learning, and modern web development — and I
+                learn the most by actually building things.
               </p>
               <p className="text-pretty text-muted-foreground">
-                Alongside building, I teach. I&apos;m a Java instructor for a Wipro
-                Project-Based Learning program, taking students from Java fundamentals
-                through OOP in Eclipse, and I coordinate HCL Tech placement-assessment prep
-                across quantitative, logical-reasoning, and verbal sections. I&apos;m also an
-                Abacus Grandmaster and teach mental-calculation to kids.
+                Away from the screen I&apos;m an athlete and a national-level basketball player.
+                The court is where the discipline, teamwork, and habit of improving under pressure
+                come from — the same instincts I bring to shipping software.
               </p>
             </div>
 
